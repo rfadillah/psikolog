@@ -1,0 +1,280 @@
+{
+  "Data": [
+    {
+      "id": 1,
+      "Nama": "Gracia Ivonika, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-gracia-ivonika-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/230aaee5-5a63-416a-834d-335b4afa4398"
+    },
+    {
+      "id": 2,
+      "Nama": "Arief Liang, M.Psi, Psikolog, FPCM",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_arief_liang_-_bicarakan.id.png&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/3ee2de11-31c0-4f4f-8762-544438a387b3"
+    },
+    {
+      "id": 3,
+      "Nama": "Vivian Chandra, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-vivian-chandra-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/7c96d1d1-8b34-4370-a27e-46b1cf2cb76c"
+    },
+    {
+      "id": 4,
+      "Nama": "Mario Albert, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_klinis_indonesia_mario_albert.png&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/09122283-0912-4282-862c-64bd7c96bbd2"
+    },
+    {
+      "id": 5,
+      "Nama": "Joe Irene, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2FJoe-Irene.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/e30994bc-2806-42fe-a461-e584941d8659"
+    },
+    {
+      "id": 6,
+      "Nama": "Dwi Ningsih Ariani, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-dwi-ningsih-ariani-bicarakan_id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/81f3b49a-bd9f-4f59-904a-18d3a3c965a7"
+    },
+    {
+      "id": 7,
+      "Nama": "Eviana Misty, M.Psi, Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_eviana_misty_-_bicarakan.id.png&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/15cbd3f0-a3ee-4ab2-9f15-1b9f01f12bac"
+    },
+    {
+      "id": 8,
+      "Nama": "Yuni Herdy Yanti, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-yuni-herdy-yanti-bicarakan_id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/de5ccd41-279c-4ec6-a4d0-c215aec07385"
+    },
+    {
+      "id": 9,
+      "Nama": "Fennisita Aurellia, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Ffennisita.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/b65c813d-7197-4108-8d5c-ef50bf6e9886"
+    },
+    {
+      "id": 10,
+      "Nama": "Verisca Marciana Kesuma, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_verisca_marciana_dari_bicarakan.id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/9cb74bd4-acd8-4601-8e91-59340e00c0e1"
+    },
+    {
+      "id": 11,
+      "Nama": "Khadijah Auliaur, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fkhadijah.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/311d26b2-ebd8-4042-abd9-59c94dabd777"
+    },
+    {
+      "id": 12,
+      "Nama": "Giavanny Panatra, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_giavanny_panatra_bicarakan-id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/977d613c-37c0-4c34-9d59-139a1ada8c4b"
+    },
+    {
+      "id": 13,
+      "Nama": "Christella Ruslan, M.Psi, Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_christella_ruslan.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/64b384d6-dfd4-4f60-b31c-88984d501f24"
+    },
+    {
+      "id": 14,
+      "Nama": "Atikah Dian Rahmawati, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-atikah-dian-rahmawati-bicarakan_id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/9284e8dd-b033-454c-a117-fc136a364ce3"
+    },
+    {
+      "id": 15,
+      "Nama": "Joana Novena Putri, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-joana-novena-putri-bicarakan_id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/074e672d-a547-407b-97d5-a169630da3d7"
+    },
+    {
+      "id": 16,
+      "Nama": "Dhuhita Karima, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fdhuhita.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/1c8a8309-29cf-4f7b-80d6-dbb6cd4b0ba0"
+    },
+    {
+      "id": 17,
+      "Nama": "Amirra Triwardhani, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-amirra-triwardhani-dari-bicarakan.id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/70cce732-c29e-4085-8369-5328c4f5805d"
+    },
+    {
+      "id": 18,
+      "Nama": "Kezia Mallista, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-kezia-mallista-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/a95e88df-9276-43c6-a545-502919db2ef2"
+    },
+    {
+      "id": 19,
+      "Nama": "Angellia Lestari, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolof-angellia-lestari-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/f29253dc-efaa-4416-8c09-5f779a54ed42"
+    },
+    {
+      "id": 20,
+      "Nama": "Mariska Johana, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_mariska_johana_dari_bicarakan_id_GpHvrv7.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/e2e1520b-7e15-490a-be61-dd2d4b490bd6"
+    },
+    {
+      "id": 21,
+      "Nama": "Hanna Hadipranoto, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-hanna-hadipranoto.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/a742b7e8-bd85-4faf-86e9-edcf57b79d51"
+    },
+    {
+      "id": 22,
+      "Nama": "Devina Winarto, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-devina-winarto-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/08c2e5a2-e5a1-492d-8c92-78c27a9e86d3"
+    },
+    {
+      "id": 23,
+      "Nama": "Michelle Dylan, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fezgif-1-5994defca7.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/b47447e8-a582-4e82-86a5-894fa6493f24"
+    },
+    {
+      "id": 24,
+      "Nama": "Dewa Ayu Inten, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_klinis_indonesia_dewa_ayu_inten.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/16b55dbc-d852-4b37-8135-9196fc9188d4"
+    },
+    {
+      "id": 25,
+      "Nama": "Sylvia Angelika, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-sylvia-angelika-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/a086be1e-d347-491f-84ef-76d12a1614fd"
+    },
+    {
+      "id": 26,
+      "Nama": "Koleta Acintya, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_koleta_acintya_saraswati_dari_bicarakan.id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/b488e04d-d7fd-4b8a-8fd2-1d8cd9415380"
+    },
+    {
+      "id": 27,
+      "Nama": "Ellia Feeber, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-ellia-feeber.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/5d291f6c-8253-4def-8acf-48174296ef21"
+    },
+    {
+      "id": 28,
+      "Nama": "Noni , M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-noni-bicarakan-id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/f3901369-35d5-417a-aa8e-38ff56f809a8"
+    },
+    {
+      "id": 29,
+      "Nama": "Nathalie Sanchia, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fnathalie.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/ca57b2d3-5b60-4649-bb3d-4324a8e48e91"
+    },
+    {
+      "id": 30,
+      "Nama": "Ikhsan Bella Persada, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-ikhsan-bella-persada-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/91d3812a-e932-438f-827f-e877b1c6eb51"
+    },
+    {
+      "id": 31,
+      "Nama": "Fika Frahesti Yunita, M. Psi., CGA., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Ffika.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/2531c069-243f-47a0-963d-e0a01fdc2a58"
+    },
+    {
+      "id": 32,
+      "Nama": "Shiane Anita Syarif, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-shiane-syarif.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/1332193d-49e9-410c-bc56-62cd81f7a0b9"
+    },
+    {
+      "id": 33,
+      "Nama": "Fitri Jayanthi, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Ffitri.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/bb20f928-b73b-4238-a0e3-59f0dc32b4b3"
+    },
+    {
+      "id": 34,
+      "Nama": "Fajrin Trisnaramawati, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2FPsikolog_jakarta_Fajrin_Trisnaramawati.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/291484be-acac-4818-96c0-f42616945faa"
+    },
+    {
+      "id": 35,
+      "Nama": "Rahel Roeroe, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-rahel-roeroe-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/2068b29c-9140-4bb3-91d4-941b30d04a61"
+    },
+    {
+      "id": 36,
+      "Nama": "Lintang Mas Melati, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Flintang-2.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/bf93ebbf-8f35-4b45-adf9-9580a84e8376"
+    },
+    {
+      "id": 37,
+      "Nama": "Stella Tirta, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fstella.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/7b073ab8-8dff-4e32-a691-45fab69f747b"
+    },
+    {
+      "id": 38,
+      "Nama": "Larasati Margaretha Soetrisno, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_larasati_margaretha_bicarakan-id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/97cb3bfd-eb67-41ae-8fe4-6d11d56940e1"
+    },
+    {
+      "id": 39,
+      "Nama": "Anastasia Permata, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog_anastasia_permata.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/de5e8db8-e034-4d36-b77d-cd02dbd112e8"
+    },
+    {
+      "id": 40,
+      "Nama": "Muhammad Hilmy Hakim, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-hilmy-hakim-bicarakan_id.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/05023efe-1747-443d-bcb4-308d95b02957"
+    },
+    {
+      "id": 41,
+      "Nama": "Lia Hervika, M.Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-lia-hervika.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/89fe049d-6e69-4e9c-8e77-1bc1154c743e"
+    },
+    {
+      "id": 42,
+      "Nama": "Astrid Hutabarat, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-astrid-wulandari-hutabarat-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/66fcae9f-f030-4981-b2be-b5557ed49d39"
+    },
+    {
+      "id": 43,
+      "Nama": "Veronica Clarissa, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-veronica-clarissa-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/e9a257d6-f425-403f-afa7-807f348ae0b9"
+    },
+    {
+      "id": 44,
+      "Nama": "Edward Gani, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fedward.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/5cb59972-4270-4afa-a77a-2674e608b8a5"
+    },
+    {
+      "id": 45,
+      "Nama": "Cindy Anjani Eridani, S. Psi.",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fcindy.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/caac9067-01aa-4c4c-95e1-35492dc3fd40"
+    },
+    {
+      "id": 46,
+      "Nama": "Anna Aulia, S. Psi.",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fezgif-2-467c61ad72.webp&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/1c8064a5-c89d-4e17-aecc-43ab2cebd6e7"
+    }
+  ]
+}
