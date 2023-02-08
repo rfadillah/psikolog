@@ -1,6 +1,11 @@
 {
   "Data": [
-
+    {
+      "id": 1,
+      "Nama": "Gracia Ivonika, M. Psi., Psikolog",
+      "Image": "https://application.bicarakan.id/_next/image?url=https%3A%2F%2Fbicarakan-prod-bucket.s3.amazonaws.com%2Fmedia%2Fuploads%2Fcounselors%2Fpsikolog-gracia-ivonika-dari-bicarakan-id.jpg&w=3840&q=75",
+      "Link": "https://application.bicarakan.id/counselor/230aaee5-5a63-416a-834d-335b4afa4398"
+    },
     {
       "id": 2,
       "Nama": "Arief Liang, M.Psi, Psikolog, FPCM",
